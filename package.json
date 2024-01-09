@@ -1,0 +1,16 @@
+{
+  "name": "@demo/root",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "20.x.x",
+    "pnpm": "8.x.x"
+  }
+}
